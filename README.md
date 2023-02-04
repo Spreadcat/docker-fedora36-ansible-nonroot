@@ -22,7 +22,7 @@ If you want to build it locally, do the following:
 
 1. [Install Docker](https://docs.docker.com/engine/installation/).
 1. `cd` into this directory.
-1. Run `docker build -t fedora37-ansible-nonroot .`
+1. Run `docker build -t fedora36-ansible-nonroot .`
 
 ### Podman
 
@@ -42,4 +42,4 @@ If you want to build it locally, do the following:
 
 ## Author
 
-Based on [docker-fedora37-ansible](https://github.com/geerlingguy/docker-fedora36-ansible) by [Jeff Geerling](https://www.jeffgeerling.com/).
+Based on [docker-fedora36-ansible](https://github.com/geerlingguy/docker-fedora36-ansible) by [Jeff Geerling](https://www.jeffgeerling.com/).
